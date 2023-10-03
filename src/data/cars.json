@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota RAV4",
+    "date":"2021",
+    "people":"4",
+    "type":"Hybrid",
+    "average":"6.1 Km",
+    "start":"Automatic",
+    "price":"$440",
+    "image":"/images/car1.jpg"
+
+  },
+ {
+    "id": 2,
+    "name": "BMW 3 Series",
+     "date":"2019",
+    "people":"4",
+    "type":"Gasoline",
+    "average":"8.2 Km",
+    "start":"Automatic",
+    "price":"$350",
+    "image":"/images/car2.jpg"
+
+  },
+ {
+    "id": 3,
+    "name": "Volkswagen T-Cross",
+     "date":"2020",
+    "people":"4",
+   "type":"Gasoline",
+    "average":"5.3 Km",
+    "start":"Automatic",
+    "price":"$400",
+    "image":"/images/car3.jpg"
+
+  },
+   {
+    "id": 4,
+    "name": "Cadillac Escalade ",
+     "date":"2020",
+    "people":"4",
+    "type":"Hybrid",
+    "average":"7.7 Km",
+    "start":"Automatic",
+    "price":"$620",
+    "image":"/images/car4.jpg"
+
+  },
+   {
+    "id": 5,
+    "name": "BMW 4 Series GTI",
+     "date":"2021",
+    "people":"4",
+    "type":"Gasoline",
+    "average":"7.6 Km",
+    "start":"Automatic",
+    "price":"$530",
+    "image":"/images/car5.jpg"
+
+  },
+   {
+    "id": 6,
+    "name": "BMW 4 Series",
+      "date":"2019",
+    "people":"4",
+    "type":"Hybrid",
+    "average":"7.2 Km",
+    "start":"Automatic",
+    "price":"$490",
+    "image":"/images/car6.jpg"
+
+  },
+  
+  {
+    "id": 7,
+    "name": "Toyota Corolla",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.0 Km",
+    "start": "Automatic",
+    "price": "$420",
+    "image": "/images/car7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Honda Civic",
+    "date": "2021",
+    "people": "5",
+    "type": "Sedan",
+    "average": "6.5 Km",
+    "start": "Automatic",
+    "price": "$380",
+    "image": "/images/car8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mazda CX-5",
+    "date": "2021",
+    "people": "5",
+    "type": "SUV",
+    "average": "8.2 Km",
+    "start": "Automatic",
+    "price": "$450",
+    "image": "/images/car9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ford Mustang",
+    "date": "2020",
+    "people": "4",
+    "type": "Sports Car",
+    "average": "10.5 Km",
+    "start": "Manual",
+    "price": "$550",
+    "image": "/images/car10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Chevrolet Camaro",
+    "date": "2022",
+    "people": "4",
+    "type": "Sports Car",
+    "average": "9.8 Km",
+    "start": "Manual",
+    "price": "$570",
+    "image": "/images/car11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Nissan Altima",
+    "date": "2020",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.5 Km",
+    "start": "Automatic",
+    "price": "$400",
+    "image": "/images/car12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Hyundai Tucson",
+    "date": "2021",
+    "people": "5",
+    "type": "SUV",
+    "average": "6.8 Km",
+    "start": "Automatic",
+    "price": "$430",
+    "image": "/images/car13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Kia Sportage",
+    "date": "2022",
+    "people": "5",
+    "type": "SUV",
+    "average": "7.2 Km",
+    "start": "Automatic",
+    "price": "$460",
+    "image": "/images/car14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Jeep Wrangler",
+    "date": "2021",
+    "people": "4",
+    "type": "SUV",
+    "average": "9.0 Km",
+    "start": "Manual",
+    "price": "$500",
+    "image": "/images/car15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Dodge Challenger",
+    "date": "2020",
+    "people": "4",
+    "type": "Sports Car",
+    "average": "10.2 Km",
+    "start": "Automatic",
+    "price": "$590",
+    "image": "/images/car16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Tesla Model 3",
+    "date": "2022",
+    "people": "5",
+    "type": "Electric",
+    "average": "5.0 Km",
+    "start": "Automatic",
+    "price": "$600",
+    "image": "/images/car17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Audi A4",
+    "date": "2021",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.8 Km",
+    "start": "Automatic",
+    "price": "$480",
+    "image": "/images/car18.jpg"
+  },
+   {
+    "id": 19,
+    "name": "Chevrolet Impala",
+    "date": "2023",
+    "people": "5",
+    "type": "Sedan",
+    "average": "8.5 Km",
+    "start": "Automatic",
+    "price": "$550",
+    "image": "/images/car19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Ford Explorer",
+    "date": "2022",
+    "people": "7",
+    "type": "SUV",
+    "average": "9.2 Km",
+    "start": "Automatic",
+    "price": "$610",
+    "image": "/images/car20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Honda Accord",
+    "date": "2023",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.6 Km",
+    "start": "Automatic",
+    "price": "$520",
+    "image": "/images/car1.jpg"
+  },
+
+
+  {
+    "id": 22,
+    "name": "Ford Fusion",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.3 Km",
+    "start": "Automatic",
+    "price": "$480",
+    "image": "/images/car2.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Nissan Sentra",
+    "date": "2021",
+    "people": "5",
+    "type": "Sedan",
+    "average": "6.9 Km",
+    "start": "Automatic",
+    "price": "$450",
+    "image": "/images/car3.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Hyundai Elantra",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.2 Km",
+    "start": "Automatic",
+    "price": "$490",
+    "image": "/images/car4.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Chevrolet Malibu",
+    "date": "2023",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.8 Km",
+    "start": "Automatic",
+    "price": "$510",
+    "image": "/images/car5.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Kia Optima",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.4 Km",
+    "start": "Automatic",
+    "price": "$480",
+    "image": "/images/car6.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Mazda 6",
+    "date": "2021",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.1 Km",
+    "start": "Automatic",
+    "price": "$470",
+    "image": "/images/car7.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Audi A3",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.7 Km",
+    "start": "Automatic",
+    "price": "$520",
+    "image": "/images/car8.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Mercedes-Benz C-Class",
+    "date": "2023",
+    "people": "5",
+    "type": "Sedan",
+    "average": "8.0 Km",
+    "start": "Automatic",
+    "price": "$550",
+    "image": "/images/car9.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Volvo S60",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.5 Km",
+    "start": "Automatic",
+    "price": "$510",
+    "image": "/images/car10.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Toyota Camry",
+    "date": "2021",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.2 Km",
+    "start": "Automatic",
+    "price": "$500",
+    "image": "/images/car11.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Lexus ES",
+    "date": "2023",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.8 Km",
+    "start": "Automatic",
+    "price": "$530",
+    "image": "/images/car12.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Subaru Legacy",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.4 Km",
+    "start": "Automatic",
+    "price": "$490",
+    "image": "/images/car13.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Ford Taurus",
+    "date": "2021",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.1 Km",
+    "start": "Automatic",
+    "price": "$470",
+    "image": "/images/car14.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Chevrolet Cruze",
+    "date": "2023",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.6 Km",
+    "start": "Automatic",
+    "price": "$510",
+    "image": "/images/car15.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Hyundai Sonata",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.3 Km",
+    "start": "Automatic",
+    "price": "$480",
+    "image": "/images/car16.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Kia Forte",
+    "date": "2021",
+    "people": "5",
+    "type": "Sedan",
+    "average": "6.9 Km",
+    "start": "Automatic",
+    "price": "$450",
+    "image": "/images/car17.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Mazda 3",
+    "date": "2023",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.2 Km",
+    "start": "Automatic",
+    "price": "$490",
+    "image": "/images/car18.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Volkswagen Jetta",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.8 Km",
+    "start": "Automatic",
+    "price": "$530",
+    "image": "/images/car19.jpg"
+  },
+    {
+    "id": 40,
+    "name": "Volkswagen Jetta",
+    "date": "2022",
+    "people": "5",
+    "type": "Sedan",
+    "average": "7.8 Km",
+    "start": "Automatic",
+    "price": "$530",
+    "image": "/images/car20.jpg"
+  }
+
+
+
+]
